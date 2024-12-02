@@ -1,0 +1,85 @@
+#sec4 button{
+    margin-top: 5%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 1.7%;
+    padding-right: 1.7%;
+    border-radius: 10px 10px 10px 10px;
+    border: none;
+}
+.four{
+    border: 1px solid black;
+    width: 60%;
+    height: 560px;
+    margin-left: 20%;
+}
+.four p {
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.four label{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.four input{
+    
+    margin-left: 5%;
+    padding-right: 60%;
+
+    
+}
+
+.four button{
+    margin-top: 5%;
+    padding: 10px 10px;
+    margin-left: 5%;
+    padding-left: 36%;
+    padding-right: 36%;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.four button:hover{
+    background-color: skyblue;
+}
+.btn1{
+    color: white;
+    background-color: #ea580c;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.btn2{
+    color: white;
+    background-color: #0d9488;
+    font-weight: bold;
+}
+.msg{
+    padding-bottom: 50px;
+}
+.ficons{
+    margin-top: 10%;
+    /* display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center; */
+
+}
+.btn3{
+    margin-left:30%;
+    margin-right: 30%;
+    background-color: white;
+    border: none;
+    
+}
+.collapse{
+    padding-left: 25%;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-item a{
+    color: white;
+}

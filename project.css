@@ -1,0 +1,94 @@
+
+
+.card1{
+    background-color: #86efac;
+    border-radius: 10px 10px 10px 10px;
+    border: none;
+}
+.card1:hover{
+    transform: scale(1.2);
+}
+
+.card1 button{
+    border-radius: 10px 10px 10px 10px;
+    background-color: black;
+    color: white;
+}
+.card1 button:hover{
+    transform: scale(1.1);
+}
+.card2{
+    background-color: #fde047;
+    border-radius: 10px 10px 10px 10px;
+}
+.card2:hover{
+    transform: scale(1.2);
+}
+
+.card2 button{
+    border-radius: 10px 10px 10px 10px;
+    background-color: black;
+    color: white;
+}
+.card2 button:hover{
+    transform: scale(1.1);
+}
+
+.card3{
+    background-color: #c084fc;
+    border-radius: 10px 10px 10px 10px;
+}
+.card3:hover{
+    transform: scale(1.2);
+
+}
+
+.card3 button{
+    border-radius: 10px 10px 10px 10px;
+    background-color: black;
+    color: white;
+}
+.card3 button:hover{
+    transform: scale(1.1);
+}
+.card4{
+    background-color: #818cf8;
+    border-radius: 10px 10px 10px 10px;
+}
+.card4:hover{
+    transform: scale(1.2);
+}
+
+.card4 button{
+    border-radius: 10px 10px 10px 10px;
+    background-color: black;
+    color: white;
+}
+.card4 button:hover{
+    transform: scale(1.1);
+}
+.card5{
+    background-color: #f87171;
+    border-radius: 10px 10px 10px 10px;
+}
+.card5:hover{
+    transform: scale(1.2);
+}
+
+.card5 button{
+    border-radius: 10px 10px 10px 10px;
+    background-color: black;
+    color: white;
+}
+.card5 button:hover{
+    transform: scale(1.1);
+}
+.collapse{
+    padding-left: 25%;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-item a{
+    color: white;
+}

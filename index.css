@@ -1,0 +1,66 @@
+.about img{
+    margin-top: 20%;
+    margin-left: 120%;
+    clip-path: circle(50% at 50% 50%);
+}
+.about h2{
+    position: relative;
+    bottom: 150%;
+    padding-right: 15%;
+}
+/* about me  */
+.collapse{
+    padding-left: 20%;
+}
+#sec1{
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 15%;
+}
+#sec1 p{
+    font-size: 20px;
+}
+#sec1.ic{
+    gap:22%
+}
+#sec2{
+    margin-left: 20%;
+    margin-top: 6%;
+}
+#sec2 h3{
+    margin-left: 10px;
+}
+.one p{
+    padding-left: 1%;
+}
+.two p{
+    padding-left: 1%;
+}
+.head3{
+    padding-right: 6%;
+}
+#sec3{
+    margin-top: 3%;
+    padding-left: 19.5%;
+}
+.three{
+    margin-left: 1%;
+}
+.head{
+    margin-top: 4%;
+}
+#sec3 a{
+    color: red;
+}
+.collapse{
+    padding-left: 25%;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-item a{
+    color: white;
+}
+.pattern a{
+    color: red;
+}
